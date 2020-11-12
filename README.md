@@ -13,7 +13,7 @@ And finally create a linear trend (with a uniform slope) which can be used to ef
 Its a Supervised Machine Learning Algorithm.
 <br>
 
-<img src="https://www.researchgate.net/profile/Hieu_Tran33/publication/333457161/figure/fig3/AS:763959762247682@1559153609649/Linear-Regression-model-sample-illustration.ppm" alt="linear regression diagram">
+<img src="https://www.researchgate.net/profile/Hieu_Tran33/publication/333457161/figure/fig3/AS:763959762247682@1559153609649/Linear-Regression-model-sample-illustration.ppm" alt="linear regression diagram" height="400em">
 
 <hr>
 
